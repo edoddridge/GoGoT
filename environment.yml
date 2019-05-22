@@ -1,0 +1,6 @@
+name: GoGoT
+dependencies:
+  - numpy
+  - matplotlib
+  - pandas
+  - ipywidgets
